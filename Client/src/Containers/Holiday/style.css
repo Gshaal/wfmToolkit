@@ -1,0 +1,15 @@
+.nav-link{
+    cursor: pointer !important;
+}
+
+.action-request{
+    margin-top: 1%;
+    border-radius: 25px;
+}
+.rw-widget{
+    width: 15em !important;
+}
+
+.date-underline{
+    text-decoration: underline;
+}

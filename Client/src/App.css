@@ -1,0 +1,91 @@
+
+.App-header {
+  width:100%;
+  display: flex !important;
+  justify-content: center !important;
+  text-align: center !important;
+}
+
+.logo{
+  border: 1px solid red;
+  border-radius: 20px;
+}
+
+ .navbar-text {
+  padding-right: 1.5rem !important;
+}
+
+.navbar-brand {
+  padding-left: 1.5rem !important;
+}
+
+/* .active{
+  border: none;
+  outline: none;
+  background-color: #f1f1f1;
+  cursor: pointer;
+} */
+
+
+.logo-img{
+  border-radius: 50% !important;
+  border: 0px solid gold;
+ 
+}
+
+@media only screen and (max-device-width: 480px) {
+  .logo-img {display: none;}
+  .notification-icon {display: none;}
+}
+
+.navbar{
+  background:#D2CBC6 !important;
+
+}
+
+.activeLink{
+  background-color:#F34213;
+  border-radius: 15px;
+}
+
+.navbar-logo{
+  padding: 2px !important;
+}
+
+.btn-global{
+  background-color:#F34213 !important;
+  border-radius: 15px !important;
+}
+
+
+.notification-icon > .btn-secondary{
+  color: black !important;
+  background-color: transparent !important;
+  border-color: transparent !important;
+}
+
+.badge {
+  padding-left: 9px;
+  padding-right: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+  background-color: #c67605;
+}
+#lblCartCount {
+    font-size: 10px;
+    background: #ff0000;
+    color: #fff;
+    padding: 2px 3px;
+    vertical-align: top;
+    margin-left: -13px; 
+}
+
+.search-container{
+  padding-top: 10% !important;
+
+}

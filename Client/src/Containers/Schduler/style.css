@@ -1,0 +1,37 @@
+.rw-widget-input  {
+    width: 218px !important;
+}
+
+.form-inline{
+    display: inline-block !important;
+}
+
+.card-footer{
+    border-radius: 12px !important;
+}
+
+.table-responsive{
+    max-height: 700px;
+}
+
+th:first-child, td:first-child
+{
+  position:sticky;
+  left:0px;
+  min-width: 250px;
+  background-color: #e0e0e0;
+ 
+}
+
+td{
+    cursor: pointer !important;
+    width: 150px;
+}
+
+.shift-menu{
+    width: auto;
+}
+
+
+
+thead td{ position: sticky !important; top: 0 !important; z-index: 1 !important; background-color: green !important; }

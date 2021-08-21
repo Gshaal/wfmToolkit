@@ -1,0 +1,1 @@
+export {sighUp, resetState, login, authCheckState, user, LogOut,setReirectRoute} from './authintication'

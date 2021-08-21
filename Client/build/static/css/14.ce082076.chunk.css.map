@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Containers/Authentication/style.css"],"names":[],"mappings":"AAAA,WACI,yBACJ,CAEA,kBACI,WACJ","file":"14.ce082076.chunk.css","sourcesContent":[".form-page{\r\n    padding-top: 10% !important;\r\n}\r\n\r\n.input-group-text{\r\n    height: 100%;\r\n}"]}
