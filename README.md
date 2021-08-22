@@ -1,6 +1,6 @@
 # WFM Toolkit
 
-Foobar is a web application built with Express and React to manage WFM activities.
+WFM Toolkit is a web application built with Express and React to manage WFM activities.
 
 ## Live Demo
 
