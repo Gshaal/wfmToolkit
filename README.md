@@ -26,7 +26,7 @@ npm install
 
 
 
-use the SQL.dump file to create the database locally and pass the config in the dbconfig.js file
+use the SQL.dump file to create the database locally and pass the config in the dbcon.js file
 
 ```javascript
 
