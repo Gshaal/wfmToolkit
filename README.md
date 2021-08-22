@@ -24,6 +24,8 @@ npm install
 
 ## Usage
 
+
+
 use the SQL.dump file to create the database locally and pass the config in the dbconfig.js file
 
 ```javascript
@@ -41,6 +43,18 @@ var connection = mysql.createPool({
 module.exports = connection;
 
 
+```
+
+```bash
+npm run server 
+```
+
+```bash
+cd Client
+```
+
+```bash
+npm start 
 ```
 
 ## Contributing
