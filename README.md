@@ -2,6 +2,10 @@
 
 Foobar is a web application built with Express and React to manage WFM activities.
 
+## Live Demo
+
+https://wfm-toolkit.herokuapp.com/
+
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/) to install dependencies for the client and server.
