@@ -5,11 +5,11 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "server":"nodemon app.js"
+    "server": "nodemon app.js"
   },
   "engines": {
     "node": "14.17.4"
- },
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

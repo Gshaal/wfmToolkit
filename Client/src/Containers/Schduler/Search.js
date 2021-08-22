@@ -112,7 +112,6 @@ class Search extends Component {
                           dataKey="value"
                           className="select-team"
                           onChange={(val)=>{
-                            console.log(val[0].text);
                             this.setState({selected_teams:val.map((item=> item.text))})
                           }}
                         />
